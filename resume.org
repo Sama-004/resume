@@ -24,7 +24,7 @@
 
     Placeholder
 
-** Birthday/Nacionality
+** Birthday/Nationality
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: header-item birthday-nacionality
    :END:
@@ -151,7 +151,7 @@
   :PROPERTIES:
   :HTML_CONTAINER_CLASS: knowledge
   :END:
-*to be updated*
+*updating soon*
 
 * Skills
   :PROPERTIES:
@@ -175,7 +175,7 @@
   - *NA* Adding soon
   - *NA* Adding soon
   - *Landing Page /html/ /css/* Clean looking landing page
-  - *Inventory app /js/ /node/ /pug/* Food app front-end made with ionic2
+  - *Inventory app /js/ /node/ /pug/* Inventory app using express framework
 
 * Certificates
   :PROPERTIES:
