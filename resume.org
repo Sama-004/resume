@@ -3,7 +3,7 @@
 #+INFOJS_OPT: view:info toc:nil path:./lib/script.js
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./lib/style.css" />
 #+EXPORT_FILE_NAME: index.html
-#+TITLE: Bruno Coimbra's Resume
+#+TITLE: Samanyu Roy's Resume
 
 * Header
   :PROPERTIES:
@@ -15,32 +15,30 @@
    :HTML_CONTAINER_CLASS: person-name header-item
    :END:
 
-   Bruno Coimbra
+   Samanyu Roy
 
 *** Short description
 	:PROPERTIES:
 	:HTML_CONTAINER_CLASS: short-description
 	:END:
 
-    Jr. Software Engineer
+    Placeholder
 
 ** Birthday/Nacionality
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: header-item birthday-nacionality
    :END:
 
-   August 24th, 1988
+   19th Novemeber, 2004
 
-   Portuguese - Brazil
+   India
 
 ** Address
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: header-item address
    :END:
 
-   29 South High Street
-
-   Yonkers, NY 10701
+   Kolkata 700032
 
 * Info
   :PROPERTIES:
@@ -58,8 +56,8 @@
 	:HTML_CONTAINER_CLASS: email info-description link
 	:END:
 
-	#+ATTR_HTML: :link mailto:mail@metaphoric.dev
-	mail@metaphoric.dev
+	#+ATTR_HTML: :link mailto:samanyuroy@gmail.com
+	samanyuroy@gmail.com
 
 *** phone
 	:PROPERTIES:
@@ -67,7 +65,7 @@
 	:END:
 
 	#+ATTR_HTML: :link tel:+1234567890
-	(12) 3456-7890
+	NA
 
 ** Social
    :PROPERTIES:
@@ -79,17 +77,17 @@
 	:HTML_CONTAINER_CLASS: github info-description link
 	:END:
 
-	#+ATTR_HTML: :link https://github.com/b-coimbra
-	b-coimbra
+	#+ATTR_HTML: :link https://github.com/Sama-004
+	Sama-004
 
 *** github
 	:PROPERTIES:
 	:HTML_CONTAINER_CLASS: personal-website info-description link
 	:END:
 
-	#+ATTR_HTML: :link http://metaphoric.dev
-	metaphoric.dev
-
+	#+ATTR_HTML: :link https://sama004.neocities.org/
+	sama004.neocities.org
+	
 ** Public Keys
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: info-item public-keys
@@ -101,7 +99,7 @@
 	:END:
 
 	#+ATTR_HTML: :link https://github.com/b-coimbra.gpg
-	*PGP* 0xE1082693
+	*PGP* NA
 
 *** crypto
     :PROPERTIES:
@@ -109,64 +107,51 @@
     :END:
 
     #+ATTR_HTML: :link https://pastebin.com/raw/9KM8LSmc
-    *ETH* 0xFC55..C9aB
-
+    *ETH* NA
+    
 ** Languages
    :PROPERTIES:
    :HTML_CONTAINER_CLASS: info-item languages
    :END:
 
-   - *PT-BR* native
-   - *EN-US* grade C1
+   - *hi-IN* Native proficiency
+   - *EN-US* Proficient
+   - *bn-IN* Fluent
 
 * Timeline
   :PROPERTIES:
   :HTML_CONTAINER_CLASS: timeline
   :END:
 
-** Actminds
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item now
-	 :END:
-
-	 #+ATTR_HTML: :date 2019 - now
-	 Full Time Software Engineer
-
-** Programmer's Beyond IT
-	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item
-	 :END:
-
-	 #+ATTR_HTML: :date 2017 - 2019
-	 Internship
-
-** Fatec
+** Netaji Subhash Engineering College
 	 :PROPERTIES:
 	 :HTML_CONTAINER_CLASS: timeline-item education
 	 :END:
 
-	 #+ATTR_HTML: :date 2015 - 2016
-	 Systems Analysis Degree
+	 #+ATTR_HTML: :date 2022 - Present
+	 Btech in Information Technology
 
-** Etec
+** Future Campus School
 	 :PROPERTIES:
-	 :HTML_CONTAINER_CLASS: timeline-item
+	 :HTML_CONTAINER_CLASS: timeline-item education
 	 :END:
 
-	 #+ATTR_HTML: :date 2014 - 2016
-	 Web Development technician cert
+	 #+ATTR_HTML: :date 2021 - 2022
+	 Higher Secondary Certificate
+
+** B.D.M. International
+	 :PROPERTIES:
+	 :HTML_CONTAINER_CLASS: timeline-item education
+	 :END:
+
+	 #+ATTR_HTML: :date 2019 - 2020 
+	 Secondary School Certificate
 
 * Knowledge
   :PROPERTIES:
   :HTML_CONTAINER_CLASS: knowledge
   :END:
-
-  Junior software developer with 3+ years of professional experience, currently developing solutions with .NET Core and Azure Cloud services.
-  Had a fair share of working with SCRUM for several sprint cycles.
-
-  Experience with creating productivity-driven shell utilities and automation tools.
-
-  Delivered a modern integration platform for an investment bank which is the largest source of development financing for Latin America and the Caribbean.
+*to be updated*
 
 * Skills
   :PROPERTIES:
@@ -175,22 +160,22 @@
 
   - *Git*
   - *Linux*
-  - *ASP.NET Core*
-  - *.NET*
-  - *JS/TS*
-  - *Angular*
+  - *JS*
+  - *Node Js*
+  - *Mongodb*
+  - *C language*
+  - *c++*
   - *Shell Scripting*
-  - *Docker*
 
 * Projects
   :PROPERTIES:
   :CUSTOM_ID: projects
   :END:
 
-  - *sushi.rb /ruby/ /shell/ /unix/* Simple Unix Shell
-  - *Simp'o'matic /ts/ /bot/ /discord/* Discord bot written in Typescript
-  - *dawn /html/ /css/* Clean looking startpage
-  - *ionic2-foodApp /ionic/ /app/ /ts/* Food app front-end made with ionic2
+  - *NA* Adding soon
+  - *NA* Adding soon
+  - *Landing Page /html/ /css/* Clean looking landing page
+  - *Inventory app /js/ /node/ /pug/* Food app front-end made with ionic2
 
 * Certificates
   :PROPERTIES:
@@ -198,10 +183,11 @@
   :END:
 
    #+ATTR_HTML: :certificate-rank gold
-   *AZ-900*
+   *NA*
 
    #+ATTR_HTML: :certificate-rank silver :class not-acquired
-   *AZ-200*
+   *NA*
 
    #+ATTR_HTML: :certificate-rank bronze :class not-acquired
-   *Exam 70-483*
+   *NA*
+   
